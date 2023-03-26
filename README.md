@@ -33,7 +33,7 @@
       <td>IOS Calculator</td>
       <td><a href="https://github.com/axel-ac/IOS-calculator" target="_blank">Repo Details</td>
       <td><a href="https://vanillajs-ios-calculator.netlify.app/" target="_blank">Live App</td>
-      <td><img src="(https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif" alt="IOS Calculator"></td>
+      <td><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif" alt="IOS Calculator"></td>
     </tr>
     <tr>
       <td>Password Generator</td>
