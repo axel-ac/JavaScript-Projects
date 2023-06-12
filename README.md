@@ -47,7 +47,13 @@
       <td><a href="https://find-the-number-game.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://user-images.githubusercontent.com/102467587/220798350-6158a964-59bd-4870-bb7b-0e02462862c6.gif" alt="Find the Number Game"></td>
     </tr>
-        <tr>
+    <tr>
+      <td>Counter2</td>
+      <td><a href="https://github.com/axel-ac/counter-2" target="_blank">Repo Details</td>
+      <td><a href="https://counter-2-vanillajs.netlify.app/" target="_blank">Live App</td>
+      <td><img src="https://user-images.githubusercontent.com/102467587/241213137-7fd86071-7e8d-48e9-87c4-6d8d21cca428.gif" alt="Counter2"></td>
+    </tr>
+    <tr>
       <td>Counter</td>
       <td><a href="https://github.com/axel-ac/counter" target="_blank">Repo Details</td>
       <td><a href="https://counter-vanillajs-axel.netlify.app/" target="_blank">Live App</td>
