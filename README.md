@@ -35,6 +35,12 @@
       <td><a href="https://vanillajs-ios-calculator.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif" alt="IOS Calculator"></td>
     </tr>
+     <tr>
+      <td>Appetizer</td>
+      <td><a href="https://github.com/axel-ac/appetizer" target="_blank">Repo Details</td>
+      <td><a href="https://appetizer-vanillajs.netlify.app/" target="_blank">Live App</td>
+      <td><img src="https://user-images.githubusercontent.com/102467587/236793505-255a4332-0b2a-41cf-b8cf-0603ee192482.gif" alt="Appetizer"></td>
+    </tr>
     <tr>
       <td>Password Generator</td>
       <td><a href="https://github.com/axel-ac/password-generator" target="_blank">Repo Details</td>
@@ -52,12 +58,6 @@
       <td><a href="https://github.com/axel-ac/find-the-number-game" target="_blank">Repo Details</td>
       <td><a href="https://find-the-number-game.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://user-images.githubusercontent.com/102467587/220798350-6158a964-59bd-4870-bb7b-0e02462862c6.gif" alt="Find the Number Game"></td>
-    </tr>
-     <tr>
-      <td>Appetizer</td>
-      <td><a href="https://github.com/axel-ac/appetizer" target="_blank">Repo Details</td>
-      <td><a href="https://appetizer-vanillajs.netlify.app/" target="_blank">Live App</td>
-      <td><img src="https://user-images.githubusercontent.com/102467587/236793505-255a4332-0b2a-41cf-b8cf-0603ee192482.gif" alt="Appetizer"></td>
     </tr>
      <tr>
       <td>Progress Steps</td>
