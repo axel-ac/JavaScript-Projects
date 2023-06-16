@@ -42,6 +42,13 @@
       <td><img src="https://user-images.githubusercontent.com/102467587/236793505-255a4332-0b2a-41cf-b8cf-0603ee192482.gif" alt="Appetizer"></td>
     </tr>
     <tr>
+    <tr>
+      <td>IsPalindrome</td>
+      <td><a href="https://github.com/axel-ac/ispalindrome" target="_blank">Repo Details</td>
+      <td><a href="https://ispalindrome-vanillajs.netlify.app/" target="_blank">Live App</td>
+      <td><img src="https://github.com/axel-ac/ispalindrome/assets/102467587/49df9653-5655-432c-904e-b2cdef626bab" alt="IsPalindrome"></td>
+    </tr>
+    <tr>
       <td>Password Generator</td>
       <td><a href="https://github.com/axel-ac/password-generator" target="_blank">Repo Details</td>
       <td><a href="https://vanilla-js-password-generator-axel.netlify.app/" target="_blank">Live App</td>
