@@ -48,12 +48,6 @@
       <td><a href="https://ispalindrome-vanillajs.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://github.com/axel-ac/ispalindrome/assets/102467587/49df9653-5655-432c-904e-b2cdef626bab" alt="IsPalindrome"></td>
     </tr>
-    <tr>
-      <td>Password Generator</td>
-      <td><a href="https://github.com/axel-ac/password-generator" target="_blank">Repo Details</td>
-      <td><a href="https://vanilla-js-password-generator-axel.netlify.app/" target="_blank">Live App</td>
-      <td><img src="https://user-images.githubusercontent.com/102467587/221689733-777904c0-8536-4051-bd1e-bab08a463236.gif" alt="Password Generator"></td>
-    </tr>
       <tr>
       <td>New Find the Number Game</td>
       <td><a href="https://github.com/axel-ac/new-find-the-number-game" target="_blank">Repo Details</td>
@@ -65,6 +59,12 @@
       <td><a href="https://github.com/axel-ac/find-the-number-game" target="_blank">Repo Details</td>
       <td><a href="https://find-the-number-game.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://user-images.githubusercontent.com/102467587/220798350-6158a964-59bd-4870-bb7b-0e02462862c6.gif" alt="Find the Number Game"></td>
+    </tr>
+    <tr>
+      <td>Password Generator</td>
+      <td><a href="https://github.com/axel-ac/password-generator" target="_blank">Repo Details</td>
+      <td><a href="https://vanilla-js-password-generator-axel.netlify.app/" target="_blank">Live App</td>
+      <td><img src="https://user-images.githubusercontent.com/102467587/221689733-777904c0-8536-4051-bd1e-bab08a463236.gif" alt="Password Generator"></td>
     </tr>
      <tr>
       <td>Progress Steps</td>
