@@ -64,7 +64,7 @@
       <td>Password Generator</td>
       <td><a href="https://github.com/axel-ac/password-generator" target="_blank">Repo Details</td>
       <td><a href="https://vanilla-js-password-generator-axel.netlify.app/" target="_blank">Live App</td>
-      <td><img src="https://user-images.githubusercontent.com/102467587/221689733-777904c0-8536-4051-bd1e-bab08a463236.gif" alt="Password Generator"></td>
+      <td><img src="https://github.com/axel-ac/password-generator/assets/102467587/c287fba1-4e7e-4688-aaad-2f1b9999b1dc" alt="Password Generator"></td>
     </tr>
      <tr>
       <td>Progress Steps</td>
